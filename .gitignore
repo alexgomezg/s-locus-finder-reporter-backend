@@ -1,0 +1,11 @@
+report.html
+s-locus-finder-report.html
+example*
+.idea
+__pycache__
+*.sh
+dist
+*.egg-info
+build
+.vscode
+.report
